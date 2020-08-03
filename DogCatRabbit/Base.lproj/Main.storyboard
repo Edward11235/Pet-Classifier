@@ -7,7 +7,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--Take a picture First :)-->
         <scene sceneID="tne-QT-ifu">
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="DogCatRabbit" customModuleProvider="target" sceneMemberID="viewController">
@@ -28,7 +28,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
-                    <navigationItem key="navigationItem" id="bgN-xn-IcL">
+                    <navigationItem key="navigationItem" title="Take a picture First :)" id="bgN-xn-IcL">
                         <barButtonItem key="rightBarButtonItem" systemItem="camera" id="Ydf-Fn-gPB">
                             <connections>
                                 <action selector="cameraButtonPressed:" destination="BYZ-38-t0r" id="J6D-hw-chG"/>
