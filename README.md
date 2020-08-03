@@ -1,4 +1,4 @@
-# Pet-Classifier
+# Pet-Classifier 🐶🐱🐰
 This is an ios app that can distinguish among Cat, Dog, and Rabbit in a given picture
 
 The machine learning model is built by me with Create ML of Apple. 
